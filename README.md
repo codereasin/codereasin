@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 ## eat(); code(); sleep(); repeat();
 
-### Back to Code </😊> Thanks to visit.
+### Back to Code </😊> Thanks to Visit.
 
 </div>
 
