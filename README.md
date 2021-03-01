@@ -30,62 +30,48 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me. =>  easinwebpro@gmail.com
 
+<hr/>
+
+#### Connected to Me
 
 <a href="https://www.facebook.com/easinwebpro/">
-  <img align="left" alt="Easin Islam Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Easin Islam Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384863.svg?token=exp=1614609433~hmac=b3bbe95f38883ab8cb0556e1bc601cfe" />
 </a>
 <a href="https://linkedin.com/in/easinwebpro">
-  <img align="left" alt="Easin Islam Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Easin Islam Linkdein" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614609499~hmac=25166e918c8425d9efae6c8b415dcae1" />
 </a>
 <a href="https://twitter.com/easinwebpro">
-  <img align="left" alt="Easin Islam Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Easin Islam Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1614609739~hmac=ad555ee11d8edeb729d9ce097a3e422e" />
 </a>
-<a href="https://github.com/easinwebpro">
-  <img align="left" alt="Easin Islam Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.hackerrank.com/easinwebpro">
+  <img align="left" alt="Hacker Rank" width="22px" src="https://avatars.githubusercontent.com/u/7596827?s=460&v=4" />
+</a>
+<a href="https://app.codesignal.com/profile/easinwebpro">
+  <img align="left" alt="Hacker Rank" width="22px" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" />
 </a>
 
-<br/>
-<br/>
-
+<hr/>
 
 **Languages and Tools:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-
 <code><img height="25" src="https://camo.githubusercontent.com/300c2986a53648631c34798554da7cde3779de253b02a15da6bccc59ea9f0317/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d332e737667"></code>
-
 <code><img height="25" src="https://camo.githubusercontent.com/ba9df1e4c5f7c9f6503f2668f03a934b4553c5840dd6067ee1ab013c2af86afc/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6761747362796a732f6761747362796a732d69636f6e2e737667"></code>
-
 <code><img height="25" src="https://avatars.githubusercontent.com/u/23617963?s=250&v=4"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
-
 <code><img height="25" src="https://camo.githubusercontent.com/faa52408def7e90dd8b2c84a09a62bf675ba11152395c61dae6a131458fbbae8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e7578746a732f6e7578746a732d69636f6e2e737667"></code>
-
 <code><img height="25" src="https://camo.githubusercontent.com/4caac8c197c4342ca3f38fad51f8afd8a411aa7a62438886815f8f12f8d90050/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f67726964736f6d652f67726964736f6d652d69636f6e2e737667"></code>
-
 <code><img height="25" src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-
 <code><img height="25" src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4"></code>
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
 <code><img height="25" src="https://user-images.githubusercontent.com/65107679/90792959-f2375480-e32c-11ea-9981-28a1e79ef08f.png"></code> 
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <!-- <code><img height="25" src=""></code> -->
 
