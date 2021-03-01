@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Hacker Rank" width="22px" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" />
 </a>
 
+<br/>
 <hr/>
 
 **Languages and Tools:**  
