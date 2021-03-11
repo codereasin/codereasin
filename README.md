@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <hr/>
 
 #### Connected to Me
-<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"/>
+
 <a href="https://www.facebook.com/easinwebpro/">
-  <img align="left" alt="FB" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" />
+  <img align="left" alt="FB" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 </a>
 <a href="https://linkedin.com/in/easinwebpro">
   <img align="left" alt="Linkdein" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
