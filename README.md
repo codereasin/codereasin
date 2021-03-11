@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 #### Connected to Me
 
 <a href="https://www.facebook.com/easinwebpro/">
-  <img align="left" alt="FB" width="22px" src="https://img.icons8.com/fluent/2x/facebook-new.png" />
+  <img align="left" alt="FB" width="24px" src="https://img.icons8.com/fluent/2x/facebook-new.png" />
 </a>
 <a href="https://linkedin.com/in/easinwebpro">
   <img align="left" alt="Linkdein" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
