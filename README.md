@@ -35,19 +35,19 @@ Here are some ideas to get you started:
 #### Connected to Me
 
 <a href="https://www.facebook.com/easinwebpro/">
-  <img align="left" alt="Easin Islam Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384863.svg?token=exp=1614609433~hmac=b3bbe95f38883ab8cb0556e1bc601cfe" />
+  <img align="left" alt="FB" width="22px" src="https://img.icons8.com/cute-clipart/2x/facebook-new.png" />
 </a>
 <a href="https://linkedin.com/in/easinwebpro">
-  <img align="left" alt="Easin Islam Linkdein" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
+  <img align="left" alt="Linkdein" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
 </a>
 <a href="https://twitter.com/easinwebpro">
-  <img align="left" alt="Easin Islam Twitter" width="22px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
+  <img align="left" alt="Twitter" width="22px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
 </a>
 <a href="https://www.hackerrank.com/easinwebpro">
-  <img align="left" alt="Hacker Rank" width="22px" src="https://avatars.githubusercontent.com/u/7596827?s=460&v=4" />
+  <img align="left" alt="HackerRank" width="22px" src="https://avatars.githubusercontent.com/u/7596827?s=460&v=4" />
 </a>
 <a href="https://app.codesignal.com/profile/easinwebpro">
-  <img align="left" alt="Hacker Rank" width="22px" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" />
+  <img align="left" alt="CodeSignal" width="22px" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" />
 </a>
 
 <br/>
