@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <hr/>
 
 #### Connected to Me
-
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"/>
 <a href="https://www.facebook.com/easinwebpro/">
   <img align="left" alt="FB" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" />
 </a>
