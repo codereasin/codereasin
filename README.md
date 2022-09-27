@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easinwebpro&label=Views&color=brightgreen&style=plastic" alt="easinwebpro" /> </p>
 
-### I'm a JavaScript Lover !😍!.
-- 🔭 I’m currently working  Front-End Developers
+### I'm a JavaScript Lover !😍!.& Python Fans🐍
+- 🔭 I’m currently working Front-End Developers.
 - 👨‍💻 My portfolio website [https://easinwebpro.com](https://easinwebpro.com)
 <!-- - 🌱 I’m currently learning everything 🤣 -->
-- 🥅 2021 Goals: Learn TypeScript, Express.js, Graphql, Nodejs 😍
-- ⚡ Fun fact: I love coding and watch movies
+- 🥅 2022 Goals: Learn Ionic, React Native, Express.js, Typescript, Nodejs 😍
+- ⚡ Fun fact: I love coding and watch movies.
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me. =>  easinwebpro@gmail.com
 
