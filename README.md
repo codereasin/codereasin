@@ -1,59 +1,35 @@
-<!--
-**easinwebpro/easinwebpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### <samp>&gt; Hi there👋, I'm Easin Islam! 
 
-<!--
-**easinwebpro/easinwebpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=easinwebpro&data=followers,repositories,stars,commits)
 
-Here are some ideas to get you started:
+<p align="left"> 
+  <a href="https://codeforces.com/profile/easinwebpro">
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="https://leetcode.com/easinwebpro/">
+    <img src="https://cp-logo.vercel.app/leetcode/easinwebpro" alt="Leet code rating" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=easinwebpro&label=Views&color=brightgreen&style=plastic" alt="easinwebpro" /> 
+ 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there👋, I'm Easin Islam!</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=easinwebpro&label=Views&color=brightgreen&style=plastic" alt="easinwebpro" /> </p>
+<img align="right" alt="GIF" src="https://github.com/easinwebpro/easinwebpro/blob/main/assets/coding.gif?raw=true" width="408"  />
 
 ### I'm a JavaScript Lover !😍!.& Python Fans🐍
 - 🔭 I’m currently working Front-End Developers.
 - 👨‍💻 My portfolio website [https://easinwebpro.com](https://easinwebpro.com)
-<!-- - 🌱 I’m currently learning everything 🤣 -->
+- ⚙️ I use daily: `.js`, `.ts`, `.git`, `.sh`
 - 🥅 2022 Goals: Learn Ionic, React Native, Express.js, Typescript, Nodejs 😍
 - ⚡ Fun fact: I love coding and watch movies.
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me. =>  easinwebpro@gmail.com
-
-<hr/>
-
-#### Connected to Me
-
-<a href="https://www.facebook.com/easinwebpro/">
-  <img align="left" alt="FB" width="24px" src="https://img.icons8.com/fluent/2x/facebook-new.png" />
-</a>
-<a href="https://linkedin.com/in/easinwebpro">
-  <img align="left" alt="Linkdein" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
-</a>
-<a href="https://twitter.com/easinwebpro">
-  <img align="left" alt="Twitter" width="22px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
-</a>
-<a href="https://www.hackerrank.com/easinwebpro">
-  <img align="left" alt="HackerRank" width="22px" src="https://avatars.githubusercontent.com/u/7596827?s=460&v=4" />
-</a>
-<a href="https://app.codesignal.com/profile/easinwebpro">
-  <img align="left" alt="CodeSignal" width="22px" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" />
-</a>
-
+- 📌 Checkout my [Resume](#).
 <br/>
-<hr/>
 
-**Languages and Tools:**  
+### **Languages & Tool:**
+![](https://skillicons.dev/icons?i=js,ts,nodejs,py,react,redux,nextjs,svelte,express,regex,vite,androidstudio,vscode,git,github,tailwind,sass,graphql,md,bash,nginx,aws,vercel,heroku,mongodb,figma)
+
+<!--
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a></code>
@@ -74,20 +50,54 @@ Here are some ideas to get you started:
 <code><a href="https://www.python.org/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href="https://github.com/easinwebpro" target="_blank"><img height="25" src="https://user-images.githubusercontent.com/65107679/90792959-f2375480-e32c-11ea-9981-28a1e79ef08f.png"></a></code> 
 <code><a href="https://cmder.net/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a></code>
-<!-- <code><a href="#" target="_blank"><img height="25" src=""></a></code> -->
+ <code><a href="#" target="_blank"><img height="25" src=""></a></code>
+ 
+-->
+
+
 
 <hr/>
 
+#### Development Stuffs:
 
-<img width="550" alt="Easin Webpro Github Stats" src="https://github-readme-stats.vercel.app/api?username=easinwebpro&show_icons=true"/>
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=easinwebpro&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=easinwebpro&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=easinwebpro&card_width=550)](https://easinwebpro.com/)
+<!--
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/easinwebpro?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/easinwebprob2/cf-stats/main/output/light_card.svg" />
+</p>
+-->
 
 <div align="center">
 
-## eat(); code(); sleep(); repeat();
+### eat(🍔); code(🧑‍💻); sleep(🛌🏻); repeat(🔁);
 
 ### Back to Code </😊> Thanks to Visit.
+
+### Connected to Me
+<div  style="display:flex; align-items: center; justify-content: center;">
+    <a href="https://www.facebook.com/easinwebpro/">
+       <img  alt="FB" width="30px" src="https://img.icons8.com/fluent/2x/facebook-new.png" />
+     </a>
+     <a href="https://linkedin.com/in/easinwebpro">
+        <img  alt="Linkdein" width="27px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
+     </a>
+       <a href="https://twitter.com/easinwebpro">
+         <img alt="Twitter" width="27px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
+       </a>
+      <a href="https://www.hackerrank.com/easinwebpro">
+        <img  alt="HackerRank" width="27px" src="https://avatars.githubusercontent.com/u/7596827?s=460&v=4" />
+      </a>
+      <a href="https://app.codesignal.com/profile/easinwebpro">
+        <img  alt="CodeSignal" width="27px" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" />
+      </a>
+<div/>
 
 </div>
 
