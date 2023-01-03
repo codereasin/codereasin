@@ -19,11 +19,11 @@
 - 🔭 I’m currently working Front-End Developers.
 - 👨‍💻 My portfolio website [https://easinwebpro.com](https://easinwebpro.com)
 - ⚙️ I use daily: `.js`, `.ts`, `.git`, `.sh`
-- 🥅 2023 Goals: Learn `AWS`,`Micro Service`, `React Native`, `Android App`, `Typescript` 😍
+- 🥅 2023 Goals: Learn `AWS`,`Micro Service Architecture`, `React Native`, `Android Apps` 😍
 - ⚡ Fun fact: I love coding and watch movies.
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me. =>  easinwebpro@gmail.com
-- 📌 Checkout my [Resume](#).
+- 📌 Checkout my [Resume](https://drive.google.com/file/d/1EBLASxFnkB6NbHoGKA1hqeteXmTpZVYs/view).
 <br/>
 
 ### **Languages & Tool:**
