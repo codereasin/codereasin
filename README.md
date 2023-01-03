@@ -19,7 +19,7 @@
 - 🔭 I’m currently working Front-End Developers.
 - 👨‍💻 My portfolio website [https://easinwebpro.com](https://easinwebpro.com)
 - ⚙️ I use daily: `.js`, `.ts`, `.git`, `.sh`
-- 🥅 2022 Goals: Learn Ionic, React Native, Express.js, Typescript, Nodejs 😍
+- 🥅 2023 Goals: Learn AWS, React Native, Android App, Typescript 😍
 - ⚡ Fun fact: I love coding and watch movies.
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 📫 How to reach me. =>  easinwebpro@gmail.com
