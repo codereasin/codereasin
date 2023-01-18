@@ -18,7 +18,7 @@
 ### I'm a JavaScript Lover !😍!.& Python Fans🐍
 - 🔭 I’m currently working Front-End Developers.
 - 👨‍💻 My portfolio website [https://easinwebpro.com](https://easinwebpro.com)
-- ⚙️ I use daily: `.js`, `.ts`, `.git`, `.sh`
+- ⚙️ I use daily: `.js`, `.ts`, `.py`, `.git`
 - 🥅 2023 Goals: Learn `AWS`,`Micro Service`, `React Native`, `Android Apps` 😍
 - ⚡ Fun fact: I love coding and watch movies.
 - 💬 Ask me about JavaScript or any tech related stuff.
