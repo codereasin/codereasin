@@ -15,7 +15,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/easinwebpro/easinwebpro/blob/main/assets/coding.gif?raw=true" width="408"  />
 
-### I'm a JavaScript Lover !😍!.& Python Fans🐍
+### I'm a JavaScript Lover😍 & Python Fans🐍
 - 🔭 I’m currently working Front-End Developers.
 - 👨‍💻 My portfolio website [https://easinwebpro.com](https://easinwebpro.com)
 - ⚙️ I use daily: `.js`, `.ts`, `.py`, `.git`
