@@ -76,9 +76,9 @@
 
 <div align="center">
 
-### eat(🍔); code(🧑‍💻); sleep(🛌🏻); repeat(🔁);
+### eat(🍔) — code(🧑‍💻) — sleep(🛌🏻) — repeat(🔁);
 
-### Back to Code </😊> Thanks to Visit.
+### Back to Code </🚀🙃> Thanks to Visit.👍
 
 ### Connected to Me
 <div  style="display:flex; align-items: center; justify-content: center;">
