@@ -76,7 +76,7 @@
 
 <div align="center">
 
-### eat(🍔) — code(🧑‍💻) — sleep(🛌🏻) — repeat(🔁);
+### prayers eat(🍔) — code(🧑‍💻) — sleep(🛌🏻) — repeat(🔁);
 
 ### Back to Code </🚀🙃> Thanks to Visit.👍
 
