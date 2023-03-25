@@ -78,7 +78,7 @@
 
 ### 🤷‍♂️ Prayers (🤲) — Eat (🍕) — Code (🧑‍💻) — Sleep (🛌) — Repeat (🔁);
 
-### Back to Code </🚀🙃> Thanks to Visit...👍
+### Back to Code </🚀🙃> Thanks to Visit.👍
 
 ### 🔗 Connected to Me
 <div  style="display:flex; align-items: center; justify-content: center;">
