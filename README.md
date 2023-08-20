@@ -3,7 +3,7 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=easinwebpro&data=followers,repositories,stars,commits)
 
 <p align="left"> 
-  <a href="https://codeforces.com/profile/easinwebpro">
+  <a href="https://codeforces.com/profile/codereasin">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://leetcode.com/easinwebpro/">
@@ -62,8 +62,8 @@
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=easinwebpro&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=easinwebpro&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codereasin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codereasin&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <!--
