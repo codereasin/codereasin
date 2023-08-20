@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there👋, I'm Easin Islam! 
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=easinwebpro&data=followers,repositories,stars,commits)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=codereasin&data=followers,repositories,stars,commits)
 
 <p align="left"> 
   <a href="https://codeforces.com/profile/codereasin">
