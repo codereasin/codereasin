@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there👋, I'm Easin Islam! 
+### <samp>&gt; Hi there👋, I'm Mohammad Easin! 
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=codereasin&data=followers,repositories,stars,commits)
 
@@ -17,12 +17,12 @@
 
 ### I'm a JavaScript Lover 😍 & Python Fans 🐍
 - 🔭 I’m currently working Front-End Developers.
-- 👨‍💻 My portfolio website [https://easinwebpro.com](https://easinwebpro.com)
+- 👨‍💻 My portfolio website [https://codereasin.com](https://codereasin.com)
 - ⚙️ I use daily: `.js`, `.ts`, `.py`, `.git`
 - 🥅 2023 Goals: Learn `AWS`,`Micro Service`, `React Native`, `Android Apps`
 - ⚡ Fun fact: I love coding and watch movies.
 - 💬 Ask me about JavaScript or any tech related stuff.
-- 📫 How to reach me. =>  easinwebpro@gmail.com
+- 📫 How to reach me. =>  codereasin@gmail.com
 - 📌 Checkout my [Resume](https://drive.google.com/file/d/1EBLASxFnkB6NbHoGKA1hqeteXmTpZVYs/view).
 <br/>
 
@@ -82,19 +82,19 @@
 
 ### 🔗 Connected to Me
 <div  style="display:flex; align-items: center; justify-content: center;">
-    <a href="https://www.facebook.com/easinwebpro/">
+    <a href="https://www.facebook.com/codereasin/">
        <img  alt="FB" width="30px" src="https://img.icons8.com/fluent/2x/facebook-new.png" />
      </a>
-     <a href="https://linkedin.com/in/easinwebpro">
+     <a href="https://linkedin.com/in/codereasin">
         <img  alt="Linkdein" width="27px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
      </a>
-       <a href="https://twitter.com/easinwebpro">
+       <a href="https://twitter.com/codereasin">
          <img alt="Twitter" width="27px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
        </a>
-      <a href="https://www.hackerrank.com/easinwebpro">
+      <a href="https://www.hackerrank.com/codereasin">
         <img  alt="HackerRank" width="27px" src="https://avatars.githubusercontent.com/u/7596827?s=460&v=4" />
       </a>
-      <a href="https://app.codesignal.com/profile/easinwebpro">
+      <a href="https://app.codesignal.com/profile/codereasin">
         <img  alt="CodeSignal" width="27px" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" />
       </a>
 <div/>
