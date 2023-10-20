@@ -91,7 +91,7 @@
        <a href="https://twitter.com/devmeasin">
          <img alt="Twitter" width="27px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />
        </a>
-      <a href="https://www.hackerrank.com/devmeasin">
+      <a href="https://www.hackerrank.com/codereasin">
         <img  alt="HackerRank" width="27px" src="https://avatars.githubusercontent.com/u/7596827?s=460&v=4" />
       </a>
       <a href="https://app.codesignal.com/profile/devmeasin">
