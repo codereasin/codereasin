@@ -3,7 +3,7 @@
 <!--
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=devmeasin&data=followers,repositories,stars,commits) 
 -->
-<img src="https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/343595187_911501420131085_5649467687558150848_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEI8324kR9NTpsvhE86PyAkYyfjqdhhFctjJ-Op2GEVy9yAyMb8TwGidptirBHy20HhAgUbXxAA1JgWqDzkNdFg&_nc_ohc=1M7Z-UPXTicAX_8-zbS&_nc_ht=scontent.fcgp3-2.fna&oh=00_AfAZN9-XFYG462JowDgCOFjto40aWs_WOZ-BM5l8ljlXPQ&oe=65371C9E" alt="easinwebpro" /> 
+<img src="https://github.com/devmeasin/devmeasin/blob/main/assets/devmeasin.jpg?raw=true" alt="easinwebpro" /> 
 
 <p align="left"> 
   <a href="https://codeforces.com/profile/codereasin">
@@ -16,7 +16,7 @@
  
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/easinwebpro/easinwebpro/blob/main/assets/coding.gif?raw=true" width="408"  />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devmeasin/devmeasin/main/assets/coding.gif" width="408"  />
 
 ### I'm a JavaScript Lover 😍 & Python Fans 🐍
 - 🔭 I’m currently working Front-End Developers.
