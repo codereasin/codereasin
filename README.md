@@ -3,7 +3,7 @@
 <!--
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=devmeasin&data=followers,repositories,stars,commits) 
 -->
-<img src="https://github.com/devmeasin/devmeasin/blob/main/assets/devmeasin.jpg?raw=true" alt="easinwebpro" /> 
+<img src="https://github.com/devmeasin/devmeasin/blob/main/assets/devmeasinv2.png?raw=true" alt="easinwebpro" /> 
 
 <p align="left"> 
   <a href="https://codeforces.com/profile/codereasin">
